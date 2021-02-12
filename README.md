@@ -13,6 +13,8 @@ In order to play the game, please open the file "Build.exe" which is located in 
 
 * Ctrl (right) = shoot
 
+* R = Restart
+
 * K = Full life (cheat) 
 
 Hope you like it. 
