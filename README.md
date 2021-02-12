@@ -5,7 +5,7 @@ Videogame specially created for the Game Jam with the theme of "Deep Space Missi
 Each component of the game, from scripts to graphics has been originally created from scratch. 
 
 
-In order to play the game, please open the file "Build.exe" which is located in the folder "Executable". 
+In order to play the game, please open the file "Better.exe" which is located in the folder "Executable". 
 
 * Movement = WASD 
 
